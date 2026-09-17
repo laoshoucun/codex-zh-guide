@@ -2,7 +2,7 @@
 
 ## 仓库介绍
 
-本仓库为「Codex 中文指南」的中文资料镜像，收录 Codex中文站 官网相关文章 15 篇（教程与指南 7 篇、版本动态 8 篇），统一整理为 Markdown。每篇文章都保留官网原文链接，可在线阅读，也可 `git clone` 到本地，用于检索、离线阅读或交给 AI 工具做学习总结；内容持续跟随官网更新。
+本仓库为「Codex 中文指南」的中文资料镜像，收录 Codex中文站 官网相关文章 16 篇（教程与指南 8 篇、版本动态 8 篇），统一整理为 Markdown。每篇文章都保留官网原文链接，可在线阅读，也可 `git clone` 到本地，用于检索、离线阅读或交给 AI 工具做学习总结；内容持续跟随官网更新。
 
 ## Codex介绍
 
@@ -18,6 +18,7 @@ Codex 是 OpenAI 推出的 AI 编程智能体，包含 Codex CLI 终端工具、
 
 ## Codex教程与指南
 
+- [Codex 可用技能榜第10期：前十名七个在管视频和图](https://www.sz003.com/chajian/2698) · [📄 仓库内阅读](docs/2698-Codex可用技能榜第10期：前十名七个在管视频和图.md)
 - [Codex Token 消耗太快？改 4 个设置，能省下 80%](https://www.sz003.com/jiaocheng/2617) · [📄 仓库内阅读](docs/2617-CodexToken消耗太快？改4个设置，能省下80%.md)
 - [Codex 和 DeepSeek harness 怎么选](https://www.sz003.com/jiaocheng/2614) · [📄 仓库内阅读](docs/2614-Codex和DeepSeekharness怎么选.md)
 - [Codex 做游戏，这 10 个 Agent Skill 够你搭一支开发团队](https://www.sz003.com/chajian/2607) · [📄 仓库内阅读](docs/2607-Codex做游戏，这10个AgentSkill够你搭一支开发团队.md)
